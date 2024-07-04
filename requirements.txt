@@ -1,0 +1,5 @@
+pickle
+requests
+gzip
+os
+streamlit
